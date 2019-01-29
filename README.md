@@ -1,2 +1,2 @@
-# Hello-world
+# Hi-world
 Primer proyecto
